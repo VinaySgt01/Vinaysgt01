@@ -29,7 +29,19 @@
 `Docker` `Jenkins` `CI/CD` `AWS` `Spring Security`
 
 ---
+## 🔍 Featured Project: **Stress Detection ML**
 
+> 🏫 *Developed for*: College-level Machine Learning Project  
+> 🧑‍💻 *Author*: Vinay Kumar  
+> 📁 [stress-detection-ml Repository](https://github.com/VinaySgt01/stress-detection-ml)
+
+This project uses physiological data to detect stress levels using a neural network trained over 50 epochs. Visualizations display the accuracy trend and validation performance:
+
+- ✅ Built with Python, TensorFlow/Keras
+- 📊 Utilized Matplotlib & Seaborn for visual insights
+- 🔁 Techniques like early stopping and dropout helped manage overfitting
+  
+-----
 ## 🧰 Tech Stack Icons
 
 <p align="left">
@@ -46,8 +58,8 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
----
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
