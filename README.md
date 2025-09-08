@@ -69,7 +69,7 @@ This project uses physiological data to detect stress levels using a neural netw
 ---
 
 ## 📫 Connect With Me
-
+- portfolio - https://vinaykumarsgt02.netlify.app
 - 🌐 [LinkedIn](#)  
 - 📧 Email: Vinaykumarsgt01@gmail.com
 
